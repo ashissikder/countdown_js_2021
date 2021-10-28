@@ -61,7 +61,8 @@ common css end
     -o-background-clip: text;
     -ms-background-clip: text;
 }
-.main .image .offer p{
+.main .image .offer a{
+    display: block;
     text-transform: uppercase;
     font-family:'Rubik', sans-serif;
     font-size: 15px;
